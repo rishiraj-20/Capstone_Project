@@ -12,10 +12,10 @@ This project provides 3 approaches to dynamic parking price estimation based on 
 
 ## Tech Stack Used
 
-# Python 3.11+
-# NumPy
-# Pandas
-# Pathway (for streaming model)
-# Google Colab for execution
+1. Python 3.11+
+2. NumPy
+3. Pandas
+4. Pathway (for streaming model)
+5. Google Colab for execution
 
 ## 📁 Structure
